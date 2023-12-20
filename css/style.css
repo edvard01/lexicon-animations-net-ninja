@@ -50,6 +50,8 @@ body {
   left: 0px;
   animation-name: drive;
   animation-duration: 3s;
+  animation-fill-mode: both;
+  animation-delay: 2s;
 }
 
 /*// KEYFRAMES //*/
